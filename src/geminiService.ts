@@ -4,7 +4,7 @@ import { GoogleGenerativeAI } from "@google/generative-ai";
 // 🔐 مفتاح السيادة (API Key)
 // تم حقن المفتاح الجديد الخاص بالقائد بن مسفر
 // ==========================================
-const API_KEY = "AIzaSyAuyr1MPrWG0Ki0fMRSlGXZYt1-4xWVb5s";
+const API_KEY = "AIzaSyASfDmBSnULR_y2aN4WCV44Dinf_svZ290";
 
 // تهيئة الاتصال بجوجل
 const genAI = new GoogleGenerativeAI(API_KEY);
